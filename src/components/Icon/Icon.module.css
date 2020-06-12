@@ -1,0 +1,11 @@
+.Icon {
+    margin-top: 10%;
+    padding: 8px;
+    height: 15%;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.Icon img{
+    height: 100%;
+}

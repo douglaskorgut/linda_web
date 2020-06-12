@@ -1,0 +1,13 @@
+.RisoliaItem{
+    width: 250px;
+    color: white;
+    font-size: 18px;
+    margin-top: -1%;
+}
+.RisoliaItem p {
+    font-size: 14px;
+}
+
+.RisoliaItem h2 {
+    font: 29px/1 'Quicksand', Helvetica, Verdana;
+}

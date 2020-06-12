@@ -1,0 +1,35 @@
+.AboutMe {
+    overflow: auto;
+    height: 600px;
+    margin-top: 150px;
+    width: 100%;
+    background-color: #f7f4ee;
+}
+
+.Wrapper {
+    display: flex;
+    justify-content: start;
+    margin-top: 5%;
+    margin-left: 6%;
+    flex-wrap: wrap;
+}
+
+.Wrapper img {
+    width: 250px;
+    height: 250px;
+    border-radius: 200px;
+    box-shadow: 2px 2px 10px black;
+}
+
+.Wrapper h1 {
+    font-family: 'Abel';
+    font-size: 40px;
+    font-weight: lighter;
+    color: #403866;
+    margin-top: -5px;
+}
+
+.column {
+    border-left: 100px solid transparent;
+}
+

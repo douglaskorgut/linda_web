@@ -1,0 +1,26 @@
+.SocialNetworksItem {
+    color: white;
+    font-size: 18px;
+    margin-top: -1%;
+    width: 250px;
+}
+
+.SocialNetworksItem p {
+    font-size: 14px;
+}
+
+.SocialNetworksItem h2 {
+    font: 29px/1 'Quicksand', Helvetica, Verdana;
+}
+
+.GlassButtonImage {
+    width: 60px;
+    box-shadow: 4px 3px 5px black;
+    border-radius: 40px;
+}
+
+.GlassButtonImage:hover {
+    transform: scale(1.1);
+    filter: contrast(1.5);
+}
+

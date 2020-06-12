@@ -1,0 +1,15 @@
+.FooterHeader{
+    display: flex;
+}
+
+.FooterHeader h2 {
+    font: 29px/1 'Quicksand', Helvetica, Verdana;
+}
+
+.FooterHeader img {
+    margin-top: 8%;
+    height: 2.1em;
+    width: 20%;
+    margin-left: 1%;
+}
+

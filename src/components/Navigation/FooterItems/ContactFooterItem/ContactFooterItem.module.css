@@ -1,0 +1,16 @@
+.ContactFooterItem {
+    width: 250px;
+    color: white;
+    font-size: 18px;
+    margin-top: -1%;
+
+}
+
+.ContactFooterItem p {
+    font-size: 14px;
+}
+
+.ContactFooterItem h2 {
+    font: 29px/1 'Quicksand', Helvetica, Verdana;
+}
+
