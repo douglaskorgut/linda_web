@@ -1,0 +1,9 @@
+.Home {
+    flex:1;
+    overflow: auto;
+    height: 750px;
+    margin-top: 150px;
+    width: 100%;
+    background-color: #f7f4ee;
+
+}

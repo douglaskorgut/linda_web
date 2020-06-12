@@ -2,100 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6523b12b-b6da-4b0b-8728-f41be782a09f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/animate/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/animsition/css/animsition.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/animsition/css/animsition.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/animsition/js/animsition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/animsition/js/animsition.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/popper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/countdowntime/countdowntime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/css-hamburgers/hamburgers.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/css-hamburgers/hamburgers.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/daterangepicker/daterangepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/daterangepicker/daterangepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/daterangepicker/moment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/daterangepicker/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/jquery/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/perfect-scrollbar/perfect-scrollbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/perfect-scrollbar/perfect-scrollbar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/select2/select2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/select2/select2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/select2/select2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/vendor/select2/select2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/contact_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/facebook_item.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/instagram_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/linkedin_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/pencil_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/whats_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/AboutMe/AboutMe.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Contact/Contact.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FloweredBorder/FloweredBorder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FloweredBorder/FloweredBorder.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Icon/Icon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Icon/Icon.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/Layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/Layout.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Logo/Logo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Logo/Logo.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Footer/Footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/FooterItems/ContactFooterItem/ContactFooterItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/FooterItems/ContactFooterItem/ContactFooterItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/FooterItems/FooterItems.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/FooterItems/FooterItems.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/FooterItems/MenuItem/MenuItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/FooterItems/MenuItem/MenuItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/FooterItems/RisoliaItem/RisoliaItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/FooterItems/RisoliaItem/RisoliaItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/FooterItems/SocialNetworksItem/SocialNetworksItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/FooterItems/SocialNetworksItem/SocialNetworksItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Toolbar/Toolbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/FooterHeader/FooterHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/FooterHeader/FooterHeader.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/ApplicationManager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/ApplicationManager.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hoc/Aux.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home/Home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SliderImage/SliderImage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SliderImage/SliderImage.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Slider/Slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Slider/Slider.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation/FooterItems/MenuItem/MenuItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/FooterItems/MenuItem/MenuItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/ApplicationManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/ApplicationManager.js" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,40 +36,36 @@
   </component>
   <component name="ProjectId" id="1cjhAP1OK1TMiP3jtABCgGS7Lkx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/vendor/awesome" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
-    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/assets/images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/vendor/awesome" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/src/assets/images" />
       <recent name="$PROJECT_DIR$/src/components" />
       <recent name="$PROJECT_DIR$/src/assets" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -181,6 +99,7 @@
       <workItem from="1591224936600" duration="10807000" />
       <workItem from="1591657117701" duration="13757000" />
       <workItem from="1591716048990" duration="18690000" />
+      <workItem from="1591970291641" duration="12186000" />
     </task>
     <servers />
   </component>
@@ -199,5 +118,35 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom" timestamp="1591970937785">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom/1280.0.1920.1080/0.360.1280.720@1280.0.1920.1080" timestamp="1591970937785" />
+    <state width="1874" height="277" key="GridCell.Tab.0.center" timestamp="1591970937784">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.center/1280.0.1920.1080/0.360.1280.720@1280.0.1920.1080" timestamp="1591970937784" />
+    <state width="1874" height="277" key="GridCell.Tab.0.left" timestamp="1591970937784">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.left/1280.0.1920.1080/0.360.1280.720@1280.0.1920.1080" timestamp="1591970937784" />
+    <state width="1874" height="277" key="GridCell.Tab.0.right" timestamp="1591970937784">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.right/1280.0.1920.1080/0.360.1280.720@1280.0.1920.1080" timestamp="1591970937784" />
+    <state x="1737" y="158" key="SettingsEditor" timestamp="1591970307017">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1737" y="158" key="SettingsEditor/1280.0.1920.1080/0.360.1280.720@1280.0.1920.1080" timestamp="1591970307017" />
+    <state x="1917" y="264" width="645" height="522" key="find.popup" timestamp="1591979926076">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1917" y="264" width="645" height="522" key="find.popup/1280.0.1920.1080/0.360.1280.720@1280.0.1920.1080" timestamp="1591979926076" />
+    <state x="1903" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1591973203639">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1903" y="231" width="672" height="678" key="search.everywhere.popup/1280.0.1920.1080/0.360.1280.720@1280.0.1920.1080" timestamp="1591973203639" />
   </component>
 </project>
