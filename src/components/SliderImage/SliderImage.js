@@ -9,7 +9,8 @@ const sliderImage = (props) => {
     };
 
     return (
-        <img style={{imgStyle}} src={props.src} alt="slide-img"></img>
+        // <img style={{imgStyle}} src={props.src} alt="slide-img"></img>
+        <h2 style={{marginLeft: '35%', marginTop: '80px'}}>Aqui vai uma imagem a gosto da linda s2</h2>
     )
 };
 

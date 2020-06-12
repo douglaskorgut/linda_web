@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6523b12b-b6da-4b0b-8728-f41be782a09f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home/Home.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SliderImage/SliderImage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SliderImage/SliderImage.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Slider/Slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Slider/Slider.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/FooterItems/MenuItem/MenuItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/FooterItems/MenuItem/MenuItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/ApplicationManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/ApplicationManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SliderImage/SliderImage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SliderImage/SliderImage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Slider/Slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Slider/Slider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Slider/Slider.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Slider/Slider.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +88,7 @@
       <workItem from="1591224936600" duration="10807000" />
       <workItem from="1591657117701" duration="13757000" />
       <workItem from="1591716048990" duration="18690000" />
-      <workItem from="1591970291641" duration="12186000" />
+      <workItem from="1591970291641" duration="13895000" />
     </task>
     <servers />
   </component>

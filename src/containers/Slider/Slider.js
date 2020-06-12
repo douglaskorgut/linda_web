@@ -8,7 +8,7 @@ class Slider extends React.Component {
 
     state = {
         xPos: 0,
-        sliderArr: [<SliderImage src={firstImage} />, <SliderImage src={secondImage} />]
+        sliderArr: [<SliderImage src={firstImage} />, <SliderImage src={secondImage} />, <SliderImage src={secondImage} />, <SliderImage src={secondImage} />]
     };
 
     goLeft = () => {
